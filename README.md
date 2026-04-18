@@ -7,11 +7,11 @@ Devbrah is a personalized, subscription-based weekly newsletter powered by Azure
 ## 🎯 Hackathon Alignment
 
 This project leverages **Microsoft for Startups** tools and services:
-- ✅ **Azure OpenAI**** - Core AI engine for code analysis and newsletter generation
-- ✅ **GitHub Integration** - Analyzes real coding activity (using GitHub API)
-- ✅ **LinkedIn Integration** - Professional profile analysis (OAuth ready)
-- ✅ **Microsoft Learn Integration** - Learning resource recommendations
-- ✅ **Viable Startup Business Model** - Subscription SaaS with clear monetization
+- **Azure OpenAI** - Core AI engine for code analysis and newsletter generation
+- **GitHub Integration** - Analyzes real coding activity (using GitHub API)
+- **LinkedIn Integration** - Professional profile analysis (OAuth ready)
+- **Microsoft Learn Integration** - Learning resource recommendations
+- **Viable Startup Business Model** - Subscription SaaS with clear monetization
 
 ## 🏗️ Tech Stack
 
